@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+opencv-python
+sqlalchemy>=2.0
+pydantic>=2.0
+python-dotenv
+aiofiles
+sse-starlette
+pytest
+pytest-cov
